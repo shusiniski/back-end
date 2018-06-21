@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collis", "Collis\Collis.csproj", "{D2472850-08C0-4EAD-A7C0-CD2A4580F12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2472850-08C0-4EAD-A7C0-CD2A4580F12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2472850-08C0-4EAD-A7C0-CD2A4580F12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2472850-08C0-4EAD-A7C0-CD2A4580F12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2472850-08C0-4EAD-A7C0-CD2A4580F12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1220384-4FDA-4B66-8B31-54ADAF7D6BCA}
+	EndGlobalSection
+EndGlobal
